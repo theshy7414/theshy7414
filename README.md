@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mike Chi
-> Master’s student / Robotics & HRC researcher  
-> ROS2, RAG + LLM for robot control, Early Action Recognation, Human–Robot Collaboration.
+- Master’s student / Robotics & HRC researcher  
+- ROS2, RAG + LLM for robot control, Early Action Recognation, Human–Robot Collaboration.
 
 <!--
 **theshy7414/theshy7414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
