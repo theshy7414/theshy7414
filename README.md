@@ -1,4 +1,9 @@
-## Hi 👋, I'm Mike Chi
+<div align="center">
+  # Hi 👋, I'm Mike Chi
+</div>
+
+---
+
 - Master’s student / Robotics & HRC researcher  
 - ROS2, RAG + LLM for robot control, Early Action Recognation, Human–Robot Collaboration.
 
